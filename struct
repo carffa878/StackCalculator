@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 73ecca5375ada6e18fdd881bc111258759744c56 Mykola_Kyryienko <kirienkokolia@gmail.com> 1655308859 +0300	branch: Created from 73ecca5375ada6e18fdd881bc111258759744c56
+73ecca5375ada6e18fdd881bc111258759744c56 73ecca5375ada6e18fdd881bc111258759744c56 Mykola_Kyryienko <kirienkokolia@gmail.com> 1655308935 +0300	Branch: renamed refs/heads/calculator_add to refs/heads/struct
+73ecca5375ada6e18fdd881bc111258759744c56 fba09d80b96fea1369046842102c15488c3697ab Mykola_Kyryienko <kirienkokolia@gmail.com> 1655308975 +0300	commit: creates struct
